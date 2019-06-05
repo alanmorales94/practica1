@@ -1,0 +1,11 @@
+C:\Users\AXEN-JR48Q12\source\repos\PractIcaProgra\PractIcaProgra\bin\Debug\netcoreapp2.1\PractIcaProgra.deps.json
+C:\Users\AXEN-JR48Q12\source\repos\PractIcaProgra\PractIcaProgra\bin\Debug\netcoreapp2.1\PractIcaProgra.runtimeconfig.json
+C:\Users\AXEN-JR48Q12\source\repos\PractIcaProgra\PractIcaProgra\bin\Debug\netcoreapp2.1\PractIcaProgra.runtimeconfig.dev.json
+C:\Users\AXEN-JR48Q12\source\repos\PractIcaProgra\PractIcaProgra\bin\Debug\netcoreapp2.1\PractIcaProgra.dll
+C:\Users\AXEN-JR48Q12\source\repos\PractIcaProgra\PractIcaProgra\bin\Debug\netcoreapp2.1\PractIcaProgra.pdb
+C:\Users\AXEN-JR48Q12\source\repos\PractIcaProgra\PractIcaProgra\obj\Debug\netcoreapp2.1\PractIcaProgra.csprojAssemblyReference.cache
+C:\Users\AXEN-JR48Q12\source\repos\PractIcaProgra\PractIcaProgra\obj\Debug\netcoreapp2.1\PractIcaProgra.csproj.CoreCompileInputs.cache
+C:\Users\AXEN-JR48Q12\source\repos\PractIcaProgra\PractIcaProgra\obj\Debug\netcoreapp2.1\PractIcaProgra.AssemblyInfoInputs.cache
+C:\Users\AXEN-JR48Q12\source\repos\PractIcaProgra\PractIcaProgra\obj\Debug\netcoreapp2.1\PractIcaProgra.AssemblyInfo.cs
+C:\Users\AXEN-JR48Q12\source\repos\PractIcaProgra\PractIcaProgra\obj\Debug\netcoreapp2.1\PractIcaProgra.dll
+C:\Users\AXEN-JR48Q12\source\repos\PractIcaProgra\PractIcaProgra\obj\Debug\netcoreapp2.1\PractIcaProgra.pdb
